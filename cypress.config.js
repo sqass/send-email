@@ -22,7 +22,7 @@ module.exports = defineConfig({
             secure: false,
             auth: {
                 user : 'joseph.j.defilippo@gmail.com',
-                pass: 'inog zxbd nqvc xvah'
+                pass: ''
             }   
         })
         
